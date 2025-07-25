@@ -1,13 +1,5 @@
 # Node modules
 node_modules/
-
+package-lock.json/
 # Environment file
 .env
-
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Build output (if any)
-dist/
